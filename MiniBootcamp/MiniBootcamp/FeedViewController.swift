@@ -83,7 +83,7 @@ extension FeedViewController: UITableViewDelegate, UITableViewDataSource {
         guard let cell = tableView.dequeueReusableCell(withIdentifier: TweetCell.identifier) as? TweetCell else { return UITableViewCell() }
         
         cell.viewModel = viewModel.tweets[indexPath.row]
-        
+
         return cell
     }
 }

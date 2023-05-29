@@ -33,6 +33,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		23BB46562A24CCA0008735F8 /* MiniBootcamp.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = MiniBootcamp.xctestplan; sourceTree = "<group>"; };
 		23F052AE2A15A62200447E94 /* Observer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Observer.swift; sourceTree = "<group>"; };
 		23F052B02A15AE6400447E94 /* FeedViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewModel.swift; sourceTree = "<group>"; };
 		23F052E82A202B2E00447E94 /* FeedViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewModelTests.swift; sourceTree = "<group>"; };
@@ -72,6 +73,7 @@
 		953697352A0C4A790083BD2C = {
 			isa = PBXGroup;
 			children = (
+				23BB46562A24CCA0008735F8 /* MiniBootcamp.xctestplan */,
 				953697402A0C4A790083BD2C /* MiniBootcamp */,
 				95A1E2882A0C696A00AB700E /* MiniBootcampTests */,
 				9536973F2A0C4A790083BD2C /* Products */,
@@ -388,6 +390,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = YJD3B5Q2BB;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MiniBootcamp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -400,7 +403,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "wizeline-academy.MiniBootcamp";
+				PRODUCT_BUNDLE_IDENTIFIER = "wizeline-academy.MiniBootcampChallenge";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -418,6 +421,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = YJD3B5Q2BB;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MiniBootcamp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -430,7 +434,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "wizeline-academy.MiniBootcamp";
+				PRODUCT_BUNDLE_IDENTIFIER = "wizeline-academy.MiniBootcampChallenge";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -448,6 +452,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = YJD3B5Q2BB;
 				GENERATE_INFOPLIST_FILE = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -472,6 +477,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = YJD3B5Q2BB;
 				GENERATE_INFOPLIST_FILE = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
